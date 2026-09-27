@@ -86,3 +86,4 @@ Since this is a console application without an automated test suite, testing is 
    - After any code changes, repeat the above steps to confirm existing functionality (adding students, reports, and analysis) still behaves as expected.
 
 Screenshots:
+<img width="991" height="737" alt="image" src="https://github.com/user-attachments/assets/daaf046f-fa20-4681-aaa1-ee2617affc93" />
